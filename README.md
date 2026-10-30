@@ -1,6 +1,8 @@
 # Chatbot-Customer-Service-Berbasis-RAG
 TokoTeknoku CS Bot: RAG + Telegram Chatbot
 
+link : t.me/tokoteknoku_cs_bot (off)
+
 Chatbot Customer Service untuk toko e-commerce/ritel (data dummy) yang menjawab pertanyaan pelanggan seputar garansi, return, spesifikasi produk, promo, dan profil toko. Jawaban dihasilkan dengan **Retrieval-Augmented Generation (RAG)**, sehingga bot hanya menjawab berdasarkan dokumen resmi dan tidak mengarang informasi.
 
 ## Latar Belakang
